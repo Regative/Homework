@@ -12,5 +12,5 @@ lib/
 *.log
 *.tmp
 
-# Игнорир JDBC-драйвера (если он уже в папке lib)
-lib/mysql-connector-java-*.jar
+# Игнорир папки lib
+lib/
